@@ -4,7 +4,7 @@ Name              | Role             | Slack             |
 ------------------|------------------|-------------------|
 Oleksiy Shashlyuk | ML Lead          |@Oleksiy Shashlyuk |
 Dymytr            | Group fasilitator|@Dymytr.           |
-
+Vitalii Levchenko | Student          |@Meezoo
 
 
 
